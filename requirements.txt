@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pymysql
+aiomysql
+pydantic
+sqlalchemy
+python-dotenv
+alembic
+cryptography
+pytest
+httpx
+pytest-mock
+cachetools
